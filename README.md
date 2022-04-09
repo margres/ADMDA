@@ -1,4 +1,4 @@
-# margres-Advanced-Data-Management-for-Data-Analysis 2019-2020
+# Advanced-Data-Management-for-Data-Analysis 2019-2020
 
 # Class Description
 
